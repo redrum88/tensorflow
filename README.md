@@ -11,3 +11,4 @@
 * [07 Milestone Project 1: Food Vision Big]()
 * [08 Introduction to NLP Fundementals in TensorFlow](https://github.com/redrum88/tensorflow/blob/main/08_introduction_to_nlp_in_tensorflow_video.ipynb)
 * [09 Milestone Project 2: SkimLit](https://github.com/redrum88/tensorflow/blob/main/09_SkimLit_nlp_milestone_project_2_video.ipynb)
+* [10 Time series forecasting fundamentals with TensorFlow + Milestone Project 3: BitPredict](https://github.com/redrum88/tensorflow/blob/main/10_time_series_forecasting_with_tensorflow_video.ipynb)
