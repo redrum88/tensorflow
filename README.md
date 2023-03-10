@@ -6,7 +6,7 @@
 * [04 Transfer Learning in TensorFlow Part 1: Feature Extraction](https://github.com/redrum88/tensorflow/blob/main/04_transfer_learning_in_tensorflow_part1_feature_extraction_video.ipynb)  + [Exercises & Extra Curriculum](https://github.com/redrum88/tensorflow/blob/main/04_transfer_learning_in_tensorflow_part_1_feature_extraction_exercises_and_extra_curriculum.ipynb)
 * [05 Transfer Learning in TensorFlow Part 2: Fine-Tuning](https://github.com/redrum88/tensorflow/blob/main/05_transfer_learning_in_tensorflow_part_2_fine_tuning_video.ipynb)
 * [06 Transfer Learning in TensorFlow Part 3: Scaling Up](https://github.com/redrum88/tensorflow/blob/main/06_trainsfer_learning_in_tensorflow_part_3_scaling_up_video.ipynb)
-* [07 Milestone Project 1: Food Vision Big]()
+* [07 Milestone Project 1: Food Vision Big](https://github.com/redrum88/tensorflow/blob/main/07_milestone_project_1_food_vision_video.ipynb)
 * [08 Introduction to NLP Fundementals in TensorFlow](https://github.com/redrum88/tensorflow/blob/main/08_introduction_to_nlp_in_tensorflow_video.ipynb)
 * [09 Milestone Project 2: SkimLit](https://github.com/redrum88/tensorflow/blob/main/09_SkimLit_nlp_milestone_project_2_video.ipynb)
 * [10 Time series forecasting fundamentals with TensorFlow + Milestone Project 3: BitPredict](https://github.com/redrum88/tensorflow/blob/main/10_time_series_forecasting_with_tensorflow_video.ipynb)
